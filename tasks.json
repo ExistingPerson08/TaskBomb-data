@@ -1,1 +1,18 @@
-
+[
+  {
+    "title": "Dokončit domácí úkol",
+    "description": "Dopsat úkol z matematiky – derivace a integrály."
+  },
+  {
+    "title": "Nákup",
+    "description": "Koupit mléko, vejce, chléb a máslo."
+  },
+  {
+    "title": "Přečíst článek",
+    "description": "Dočíst článek o GTK v Pythonu na blogu RealPython."
+  },
+  {
+    "title": "Cvičení",
+    "description": "30 minut kardio + 15 minut jógy."
+  }
+]
